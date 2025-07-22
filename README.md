@@ -66,4 +66,4 @@ Digite a sua opcao:
 
 ## ✍️ Autor
 
-Desenvolvido por [Seu Nome Aqui] como exercício de aprendizado.
+Desenvolvido por Victor como exercício de aprendizado.
